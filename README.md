@@ -9,5 +9,7 @@ Conteúdo
 
 - Desafios Java
 
+---
+"A escalada pode ser longa, mas a vista vale a pena" - Taric 
 
 
